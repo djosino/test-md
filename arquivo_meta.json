@@ -1,0 +1,44 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "pdf_toc": [],
+    "pages": 9,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 54,
+        "code": 0,
+        "table": 5,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "computed_toc": [
+        {
+            "title": "1. 1.CLÁUSULA PRIMEIRA – OBJETO",
+            "level": 2,
+            "page": 0
+        },
+        {
+            "title": "2. CLÁUSULA SEGUNDA - VIGÊNCIA",
+            "level": 2,
+            "page": 2
+        },
+        {
+            "title": "4. CLÁUSULA QUARTA - DOTAÇÃO ORÇAMENTÁRIA",
+            "level": 2,
+            "page": 2
+        },
+        {
+            "title": "9. CLÁUSULA NONA - FISCALIZAÇÃO",
+            "level": 2,
+            "page": 6
+        }
+    ]
+}
